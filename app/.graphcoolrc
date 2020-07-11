@@ -1,0 +1,3 @@
+targets:
+  dev: local/ckci7vrb700040182efelanjk
+  default: dev
